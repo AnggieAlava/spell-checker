@@ -20,10 +20,6 @@ This is the first project I created together with [CFG](https://codefirstgirls.c
 
 - python speell_checker.py
 
-## Demo
-
-Check out the live demo [HERE...]().
-
 ## Preview
 
-![Project Preview]()
+![Speell Checker App](/spell-checker.gif)
