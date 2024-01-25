@@ -20,6 +20,12 @@ This is the first project I created together with [CFG](https://codefirstgirls.c
 
 - python speell_checker.py
 
+## Authors
+
+[Anggie Alava](https://www.linkedin.com/in/anggiealava/)
+
+![Logo](./logo192x192.png)
+
 ## Preview
 
 ![Speell Checker App](/spell-checker.gif)
